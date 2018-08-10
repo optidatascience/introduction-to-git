@@ -36,6 +36,8 @@ a free and open source distributed version control system
   git config --global user.email "liang.zhou@optum.com"
  </code>
  
+ ---
+ 
  ### Step 1. Create a repo
  - initiate
  <code> 
@@ -47,6 +49,8 @@ a free and open source distributed version control system
   git clone git@github.optum.com:lzhou10/introduction-to-git.git
  </code>
  
+ ---
+ 
  ### Step 2. Stage files
  <code> 
   git add filenames.txt filesnames.sas filesnames.R
@@ -56,6 +60,8 @@ a free and open source distributed version control system
  <code>
   git status
  </code>
+ 
+ ---
  
  ### Step 3. Commit
  - Write commit messages (very important)
