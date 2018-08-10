@@ -3,16 +3,13 @@
 an open source distributed version control system
 
 ---
-### Git vs GitHub
-
-- *Git*: the tool to create/manage repository. like SVN
-- *GitHub*: repository hosting. http://www.github.com (free) http://github.optum.com (enterprise)
-
----
 ### Why
 
-- Welcoem to the state-of-the-art
+---
+### Git vs GitHub
 
+ - *Git*: the tool to create/manage repository. like SVN
+ - *GitHub*: repository hosting. http://www.github.com (free) http://github.optum.com (enterprise)
 
 ---
 ### How Git works
