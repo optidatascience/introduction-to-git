@@ -21,6 +21,7 @@ a free and open source distributed version control system
 
 ![Collabration](https://kevintshoemaker.github.io/StatsChats/GIT1.png)
 
+---
 
 ### Get Started
 
@@ -34,4 +35,35 @@ a free and open source distributed version control system
   
   git config --global user.email "liang.zhou@optum.com"
  </code>
+ 
+ ### Step 1. Create a repo
+ - initiate
+ <code> 
+  git init
+ </code>
+ 
+ - clone an existing repo
+ <code>
+  git clone git@github.optum.com:lzhou10/introduction-to-git.git
+ </code>
+ 
+ ### Step 2. Stage files
+ <code> 
+  git add filenames.txt filesnames.sas filesnames.R
+ </code>
+ 
+ - Check status
+ <code>
+  git status
+ </code>
+ 
+ ### Step 3. Commit
+ - Write commit messages (very important)
+ <code>
+  git commit -m "messages here"
+ </code>
+ 
+ 
+ 
+ 
  
