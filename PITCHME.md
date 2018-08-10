@@ -3,7 +3,7 @@
 an open source distributed version control system
 
 ---
-### Why
+## Why
 
 ---
 ### Git vs GitHub
