@@ -1,12 +1,18 @@
 # Git and GitHub
 
-a free and open source distributed version control system
+an open source distributed version control system
 
 ---
 ### Git vs GitHub
 
 - *Git*: the tool to create/manage repository. like SVN
 - *GitHub*: repository hosting. http://www.github.com (free) http://github.optum.com (enterprise)
+
+---
+### Why
+
+- Welcoem to the state-of-the-art
+
 
 ---
 ### How Git works
@@ -33,6 +39,7 @@ a free and open source distributed version control system
  
 ---
 ### Step 1. Create a repo
+ 
  - initiate
  ```
   git init
@@ -45,6 +52,8 @@ a free and open source distributed version control system
  
 ---
 ### Step 2. Stage files
+ 
+ - Put files in Stage
  ```
   git add filenames.txt filesnames.sas filesnames.R
  ```
@@ -56,12 +65,21 @@ a free and open source distributed version control system
  
 ---
 ### Step 3. Commit
+ 
  - Write commit messages (very important)
  ```
   git commit -m "messages here"
  ```
+
+---
+### Step 4. Push to GitHub
+
+ ```
+  git push origin master
+ ```
+ - Origin: Remote GitHub Repo
+ - Master: Branch name
  
+
  
- 
- 
- 
+
